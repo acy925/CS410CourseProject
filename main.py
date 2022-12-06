@@ -50,7 +50,7 @@ def main(file_path: str, custom_stopwords: list[str], usePretrain: bool,
         lda.save_trained_lda(save_path='./model/lda')
     else:
         # Use pretrained model
-        Print('Using pretrained model ...')
+        print('Using pretrained model ...')
         if isUpdate:
             lda = TopicModel(isPretrained=True, text=text)
         else:
