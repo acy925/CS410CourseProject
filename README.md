@@ -120,7 +120,7 @@ Each team member made an equal contribution to this project.
 
 **We have successfully completed what we have planned and got the expected outcome.**
 
-Due to time constraints, we were unable to complete the advanced function that was **optional** in our proposal, including:
+Due to time constraints, we were unable to complete the advanced functions that were **optional** in our proposal, including:
 
 - Similarity-based Clustering techniques (e.g. Hierarchical Agglomerative Clustering (HAC) or K-means)
 - Emotional sentiment analysis, aspect-based and multilingual sentiment analysis
