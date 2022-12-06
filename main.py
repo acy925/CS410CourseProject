@@ -33,8 +33,8 @@ def main(file_path: str, custom_stopwords: list[str], usePretrain: bool,
     df = pd.DataFrame(data)
 
     text = df['text']
-    idx_start = 0 
-    idx_end = 1000
+    idx_start = 0 # starting index of text (tweets) for sentiment analysis
+    idx_end = 1000 # ending index of text (tweets) for sentiment analysis
 
     rm_lemma = RemoveUrlEmojiLemmanization(data=text)
     text = rm_lemma.preprocess_text(convertTostring=False)
