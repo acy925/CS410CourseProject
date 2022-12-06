@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - spacy
+  - nltk
+  - gensim
+  - unidecode
+  - jupyter
+  - pip
+  - pip:
+    - clean-text
+    - spacytextblob
+name: heatwaver
