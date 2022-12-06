@@ -1,5 +1,7 @@
 # Mining and analyzing heat waves-related topics using social media
 
+link to video: https://drive.google.com/file/d/1wkCJF_Xq6AquJIvG8Y4lPp_tJTsCRiHI/view?usp=share_link
+
 ## 1) An overview of the function of the code (i.e., what it does and what it can be used for).
 
 The code provides three main functions:
